@@ -6,7 +6,7 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>Athlete Stocks</title>
+    <title>NBA Trading Desk</title>
     <link rel="stylesheet" href="css/reset.css">
     <link rel="stylesheet" href="css/reset.css">
   </head>
