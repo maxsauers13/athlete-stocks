@@ -125,17 +125,17 @@ a.btn-startgames:hover {
       align-items: center;
     }
 	span.img-ste1 {
-    background: url(/icons/img-ste1.png) no-repeat;
+    background: url(/img/kobe.png) no-repeat;
     display: block;
     width: 560px;
     height: 420px;
     background-size: contain;
 }
 h3.name-intro {
-    font-size: 74px;
+    font-size: 60px;
     color: #2e3338;
     font-weight: 900;
-    margin-left: 15px;
+    margin-right: 100px;
 }
 
 p.docopation-intro {
@@ -214,7 +214,7 @@ a.block-s1.p2 {
 }
 img.poster {
     float: left;
-    width: 30%;
+    width: 20%;
 }
 
 .news-link {
@@ -225,12 +225,13 @@ img.poster {
     border-radius: 6px;
     display: table;
     margin-bottom: 45px;
+    width: 875px;
 }
 
 span.hot-news {
     position: absolute;
     right: 35px;
-    background: linear-gradient(to right, #fa8819, #fec259);
+    background: linear-gradient(to right, #79ff79, #65a72f);
     font-size: 18px;
     color: #fff;
     padding: 7px 20px;

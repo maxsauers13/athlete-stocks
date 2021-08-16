@@ -22,7 +22,7 @@
           <div class="col-12">
             <div class="nav-header d-flex justify-content-between align-items-center">
               <a href="index.php" class="logo" title="LOGO">
-                <img class="logo-img" src="../img/logo.jpeg" alt="LOGO">
+                <img class="logo-img" src="../img/fire_logo.png" alt="LOGO">
               </a>
             </div>
             <div class="nav-wrap">
@@ -31,7 +31,7 @@
               <li><a href="trade.php" class='btn-login'><span class='ic-g'></span>Trade</a></li>
                 <?php
                   if (isset($_SESSION["useruid"])) {
-                    echo "<li><a href='account.php' class='btn-login'><span class='ic-sx21'></span>Account</a></li>";
+                    echo "<li><a href='account.php' class='btn-login'><span class='ic-sx21'></span>" . $_SESSION["useruid"] . "</a></li>";
                     echo "<li><a href='includes/logout.inc.php' class='btn-login'><span class='ic-sx22'></span>Logout</a></li>";
                   } else {
                     echo "<li><a href='login.php' class='btn-login'><span class='ic-sx21'></span>Login</a></li>";

@@ -15,65 +15,70 @@
       ?>
       <div class="news-link">
         <img class="poster" src="/img/jordan.png" />
-        <span class="hot-news">HOT</span>
+        <span class="hot-news">$20</span>
         <h3 class="news-log">Buy/Sell Michael Jordan</h3>
         <p class="description">
-          Встречайте новая мини-игра PUBG теперь и на нашем сервере в майнкрафт !
-          По традиции нашим первым шагом будет ознакомление с правилами и регистрация аккаунта. 
-          Будьте внимательны при чтении правил нашего проекта, незнание их не освобождает вас от... 
+          Michael Jordan <br>
+          Pts: 20 <br>
+          Asts: 5 <br>
+          Rebs: 6
         </p>
-        <a href="#" class="btn-view"><span class="ic-sx24"></span> Подробнее</a>
-        <span class="time-data">18.05.18 12:42</span>
+        <a href="trade.php" class="btn-view"><span class="ic-sx24"></span> Buy</a>
+        <a href="trade.php" class="btn-view" style="float:left"><span class="ic-sx24"></span> Sell</a>        
       </div>
       <div class="news-link">
         <img class="poster" src="/img/jordan.png" />
-        <span class="hot-news">HOT</span>
+        <span class="hot-news">$20</span>
         <h3 class="news-log">Buy/Sell Michael Jordan</h3>
         <p class="description">
-          Встречайте новая мини-игра PUBG теперь и на нашем сервере в майнкрафт !
-          По традиции нашим первым шагом будет ознакомление с правилами и регистрация аккаунта. 
-          Будьте внимательны при чтении правил нашего проекта, незнание их не освобождает вас от... 
+          Michael Jordan <br>
+          Pts: 20 <br>
+          Asts: 5 <br>
+          Rebs: 6
         </p>
-        <a href="#" class="btn-view"><span class="ic-sx24"></span> Подробнее</a>
-        <span class="time-data">18.05.18 12:42</span>
+        <a href="trade.php" class="btn-view"><span class="ic-sx24"></span> Buy</a>
+        <a href="trade.php" class="btn-view" style="float:left"><span class="ic-sx24"></span> Sell</a>        
       </div>
       <div class="news-link">
         <img class="poster" src="/img/jordan.png" />
-        <span class="hot-news">HOT</span>
+        <span class="hot-news">$20</span>
         <h3 class="news-log">Buy/Sell Michael Jordan</h3>
         <p class="description">
-          Встречайте новая мини-игра PUBG теперь и на нашем сервере в майнкрафт !
-          По традиции нашим первым шагом будет ознакомление с правилами и регистрация аккаунта. 
-          Будьте внимательны при чтении правил нашего проекта, незнание их не освобождает вас от... 
+          Michael Jordan <br>
+          Pts: 20 <br>
+          Asts: 5 <br>
+          Rebs: 6
         </p>
-        <a href="#" class="btn-view"><span class="ic-sx24"></span> Подробнее</a>
-        <span class="time-data">18.05.18 12:42</span>
+        <a href="trade.php" class="btn-view"><span class="ic-sx24"></span> Buy</a>
+        <a href="trade.php" class="btn-view" style="float:left"><span class="ic-sx24"></span> Sell</a>        
       </div>
       <div class="news-link">
         <img class="poster" src="/img/jordan.png" />
-        <span class="hot-news">HOT</span>
+        <span class="hot-news">$20</span>
         <h3 class="news-log">Buy/Sell Michael Jordan</h3>
         <p class="description">
-          Встречайте новая мини-игра PUBG теперь и на нашем сервере в майнкрафт !
-          По традиции нашим первым шагом будет ознакомление с правилами и регистрация аккаунта. 
-          Будьте внимательны при чтении правил нашего проекта, незнание их не освобождает вас от... 
+          Michael Jordan <br>
+          Pts: 20 <br>
+          Asts: 5 <br>
+          Rebs: 6
         </p>
-        <a href="#" class="btn-view"><span class="ic-sx24"></span> Подробнее</a>
-        <span class="time-data">18.05.18 12:42</span>
+        <a href="trade.php" class="btn-view"><span class="ic-sx24"></span> Buy</a>
+        <a href="trade.php" class="btn-view" style="float:left"><span class="ic-sx24"></span> Sell</a>        
       </div>
       <div class="news-link">
         <img class="poster" src="/img/jordan.png" />
-        <span class="hot-news">HOT</span>
+        <span class="hot-news">$20</span>
         <h3 class="news-log">Buy/Sell Michael Jordan</h3>
         <p class="description">
-          Встречайте новая мини-игра PUBG теперь и на нашем сервере в майнкрафт !
-          По традиции нашим первым шагом будет ознакомление с правилами и регистрация аккаунта. 
-          Будьте внимательны при чтении правил нашего проекта, незнание их не освобождает вас от... 
+          Michael Jordan <br>
+          Pts: 20 <br>
+          Asts: 5 <br>
+          Rebs: 6
         </p>
-        <a href="#" class="btn-view"><span class="ic-sx24"></span> Подробнее</a>
-        <span class="time-data">18.05.18 12:42</span>
+        <a href="trade.php" class="btn-view"><span class="ic-sx24"></span> Buy</a>
+        <a href="trade.php" class="btn-view" style="float:left"><span class="ic-sx24"></span> Sell</a>        
       </div>
-    </div>
+      </div>
     <div class="col-lg-3 col-md-3">
       <div class="right-block">
           <div class="n-m">Current Player Prices</div>
