@@ -214,7 +214,8 @@ a.block-s1.p2 {
 }
 img.poster {
     float: left;
-    width: 20%;
+    width: 15%;
+    margin-left: 60px;
 }
 
 .news-link {
@@ -226,6 +227,7 @@ img.poster {
     display: table;
     margin-bottom: 45px;
     width: 875px;
+    height: 100px;
 }
 
 span.hot-news {

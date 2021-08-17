@@ -139,3 +139,24 @@ function loginUser($conn, $username, $pwd) {
         exit();
     }
 }
+
+// gets a player from the database
+function get_player($conn) {
+    $sql = "SELECT * FROM players";
+    $stmt = mysqli_stmt_init($conn);
+
+    if (!mysqli_stmt_prepare($stmt, $sql)) {
+        # header("location: ../trade.php?error=stmtfailed");
+        echo "Prepare failed: (" . $stmt->errno . ") " . $stmt->error;
+        exit();
+    }
+
+    mysqli_stmt_execute($stmt);
+
+    $resultData = mysqli_stmt_get_result($stmt);
+    return $resultData;
+
+    mysqli_stmt_close($stmt);
+    # header("location: ../trade.php?error=none");
+    exit();
+}
