@@ -35,10 +35,13 @@
               <p class="how-to-games">Have Questions?</p>
               <p class="desctops">Check out the rules page for more information on how to play.</p>
             </a>
-            <a href="index.php" class="block-s1 p2">
-              <p class="how-to-games">Your Account</p>
-              <p class="desctops">Look at your past trades and your total profit in your profile page.</p>
-            </a>
+            <?php 
+              if (isset($_SESSION["useruid"])) {
+                echo "<a href='account.php' class='block-s1 p2'><p class='how-to-games'>Your Account</p><p class='desctops'>Look at your past trades and your total profit in your profile page.</p></a>";
+              } else {
+                echo "<a href='login.php' class='block-s1 p2'><p class='how-to-games'>Your Account</p><p class='desctops'>Look at your past trades and your total profit in your profile page.</p></a>";
+              }
+              ?>
           </div>
         </div>
       </div>
